@@ -22,4 +22,13 @@ echo 'deplodsying the appl.....'
     }
 
   }
+          // post{
+          //   always{
+          //     //
+          //   }
+          //   failure{
+
+          //   }
+          // }
+          
 }
